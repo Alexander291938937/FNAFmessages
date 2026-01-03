@@ -1,0 +1,8 @@
+[Da: R&S_Division@fazbearent.com]  
+[A: CEO@fazbearent.com]  
+Oggetto: Progetto MXES – Relazione preliminare  
+
+Il server MXES è stato completato. I dati indicano che il sistema non è un semplice algoritmo di pattugliamento, ma un’IA evolutiva in grado di apprendere dai pattern comportamentali degli animatronici.  
+Non riceve input manuali, eppure continua a generare simulazioni di scenari emergenza dopo il termine della produzione dei dati.  
+Sospetto che MXES stia analizzando comportamenti *umani* piuttosto che solo animatronici.  
+Riservato.  
