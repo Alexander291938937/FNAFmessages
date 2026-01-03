@@ -1,0 +1,7 @@
+[Da: Development_Lead@fazbearent.com]  
+[A: Head_of_Animation@fazbearent.com]  
+Oggetto: Note su “Voice Pattern Replay”  
+
+Abbiamo osservato che alcuni moduli animatronici non riproducono solo comandi audio programmati, ma *ritornano voci non previste* che non corrispondono a nulla in archivio.  
+I test confrontano i file con *registrazioni originali del personale*, e i risultati sono sconcertanti.  
+Questo non è rumore di fondo.  
