@@ -1,0 +1,8 @@
+[Da: manutenzione@fazbearent.com]  
+[A: supervisore@fazbearent.com]  
+Oggetto: Partecipazione anomala  
+
+Durante il controllo notturno ho notato qualcosa di impossibile: Freddy non era sul palco, ma la telecamera lo mostrava come se stesse cantando.  
+Quando sono arrivato nella sala, era vuota.  
+Ho controllato il log dei comandi: nessuno aveva attivato alcuna routine.  
+Non so se sto perdendo la testa o se c’è qualcos’altro dietro.
